@@ -1,3 +1,7 @@
-## Finance-Courses-Data-Analysis-Project
-In this project, we analyzed the most popular courses published on Udemy, which courses have higher ratings, which courses are paid, and the total number of courses published each year using Python. \n
-Data Set : https://www.kaggle.com/
+## # Finance Courses Data Analysis Project
+
+In this project, we used Python to analyze Udemy courses. We examined the most popular courses, which courses have higher ratings, which courses are paid, and the total number of courses published each year.
+
+## Data Set  
+The data set used for this project is available on Kaggle:  
+(https://www.kaggle.com/)
